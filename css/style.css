@@ -1,0 +1,46 @@
+body {
+    background-color: lightblue;
+
+}
+
+.volkhov-regular {
+  font-family: "Volkhov", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.volkhov-bold {
+  font-family: "Volkhov", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.volkhov-regular-italic {
+  font-family: "Volkhov", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.volkhov-bold-italic {
+  font-family: "Volkhov", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+h1 {
+    font-size: 2.986rem;
+}
+
+h2 {
+    font-size: 2.488rem;
+}
+
+h3{
+    font-size: 2.074rem;
+}
+
+p{
+    line-height: 1.6875;
+}
+
